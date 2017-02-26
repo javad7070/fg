@@ -7,7 +7,7 @@
 # if you need Help for develop this source , You Can Send Message To Me With @SpyGuard_BOT #
 ############################################################################################
 */
-define('API_KEY','278067406:AAEQm4obtVgGQ3mHZr0Z0NKsx_KeedXGsos');
+define('API_KEY','338892376:AAETgnmUsL0ztYCClchImR68dWznJw9rMLU');
 //----######------
 function makereq($method,$datas=[]){
     $url = "https://api.telegram.org/bot".API_KEY."/".$method;
